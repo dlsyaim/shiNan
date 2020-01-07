@@ -1,0 +1,24 @@
+台区综合管理
+    设备状态
+        台区概况
+        运行监测
+    智能运维
+        负载情况
+            src/views/intelliOper/load
+        电压质量
+        三相均衡
+        功率因素
+        线损情况
+        户变关系
+    异常处理
+        异常处理
+            src/page/statistic
+            src/views/abnormalHandler/statistic
+            src/views
+        主动抢修
+        报修统计
+    辅助决策
+        巡检方案
+        停电计划指导
+    统计报表
+        统计报表    
